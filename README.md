@@ -10,7 +10,7 @@
 1. Sign up on Google IDX.
 2. Create a new workspace using this repository (**Do NOT change the repo name**):
 
-**Repository URL:** https://github.com/NotGamerPiie/pie_vps
+**Repository URL:** https://github.com/TirthParmar12/VPS
 
 ### ▶️ VM Setup Command
 
