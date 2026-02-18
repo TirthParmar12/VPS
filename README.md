@@ -46,4 +46,7 @@ Your Google IDX VM + Pterodactyl Panel is now installed.
 Credit all these guys!:
 
 * TirthParmar12
+* HopingBoiyz
+* Jishnu
+* NotGamerPie
 ### Thanks!
