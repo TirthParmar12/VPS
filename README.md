@@ -15,7 +15,7 @@
 ### ▶️ VM Setup Command
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/NotGamerPiie/idx-vps/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/TirthParmar12/VPS/main/vps.sh)
 ```
 
 ---
@@ -45,7 +45,5 @@ Your Google IDX VM + Pterodactyl Panel is now installed.
 
 Credit all these guys!:
 
-* HopingBoiyz
-* Jishnu
-* NotGamerPie
+* TirthParmar12
 ### Thanks!
